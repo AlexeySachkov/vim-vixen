@@ -69,6 +69,8 @@ See the [console commands](./console_commands.html) section for a more detailed 
 - <kbd>g</kbd><kbd>u</kbd>: go to the parent directory
 - <kbd>g</kbd><kbd>U</kbd>: go to the root directory
 - <kbd>g</kbd><kbd>i</kbd>: focus the first input field
+- <kbd>g</kbd><kbd>h</kbd>, <kbd>g</kbd><kbd>H</kbd>: open home page in current/
+  new tab
 
 Vim Vixen can be configured to follow links opened in tabs in the background
 instead of switching to a new tab immediately. To do this, you'll need to update
