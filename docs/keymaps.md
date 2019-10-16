@@ -86,8 +86,9 @@ action to `true`, e.g.:
 ## Misc
 
 - <kbd>y</kbd>: copy the URL of the current tab to the clipboard
-- <kbd>p</kbd>: open the clipboard's URL in the current tab
-- <kbd>P</kbd>: open the clipboard's URL in new tab
+- <kbd>p</kbd>, <kbd>P</kbd>: open the clipboard's URL or search search the
+  clipboard's contents in default search engine if it is not an URL. The former
+  key opens results in the same tab, the latter in a new tab
 - <kbd>Shift</kbd>+<kbd>Esc</kbd>: enable or disable the add-on in the current tab
 - <kbd>/</kbd>: start searching for text in the page
 - <kbd>n</kbd>: find the next search result in the page
