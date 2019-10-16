@@ -50,6 +50,7 @@ numeric marks (`[A-Z0-9]`) store the position and the tab.
 - <kbd>O</kbd>, <kbd>T</kbd>, <kbd>W</kbd>: similar to <kbd>o</kbd>, <kbd>t</kbd>, <kbd>w</kbd>, but using the current URL
 - <kbd>b</kbd>: select tabs by URL or title
 - <kbd>a</kbd>: add the current page to your bookmarks
+- <kbd>Esc</kbd>, <kbd>Ctrl</kbd>+<kbd>C</kbd>: close the console
 
 See the [console commands](./console_commands.html) section for a more detailed description.
 
