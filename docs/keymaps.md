@@ -96,5 +96,7 @@ action to `true`, e.g.:
 - <kbd>n</kbd>: find the next search result in the page
 - <kbd>N</kbd>: find the previous search result in the page
 - <kbd>g</kbd><kbd>f</kbd>: view the source of the current tab
+- <kbd>.</kbd>: repeat last manipulation command such as opening, updating and
+  deleting a tab
 
 
